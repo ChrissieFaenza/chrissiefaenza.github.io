@@ -1,6 +1,6 @@
-## About me
+# About me
 
-![image of myself](https://images.app.goo.gl/pZrWrreXRoBuTRV36)
+![Chrissie Faenza](https://imgur.com/a/h7S5MRI)
 
 Hi everyone! My name is Chrissie Faenza and I'm from Millburn, New Jersey. I'm currently a rising junior at Lehigh University in Bethlehem, Pennsylvania, where I'm studying Journalism, with double minors in Marketing and Business. 
 
