@@ -1,4 +1,4 @@
-# About me
+# About Me
 
 ![Chrissie Faenza](https://imgur.com/hJLM4cC.jpg)
 
