@@ -6,4 +6,4 @@ Hi everyone! My name is Chrissie Faenza and I'm from Millburn, New Jersey. I'm c
 
 On campus, I write for Lehigh's student publication, the Brown and White, where I am an Associate Editor. I am also an executive council member of my sorority, Alpha Gamma Delta, where I serve as the Director of Property. 
 
-Feel free to check out my [LinkedIn!](www.linkedin.com/in/chrissie-faenza)
+Feel free to check out my [LinkedIn!](https://www.linkedin.com/in/chrissie-faenza)
