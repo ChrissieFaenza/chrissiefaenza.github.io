@@ -21,3 +21,10 @@ This chart shows the percentage of students enrolled in each of Lehigh's three u
 
 <iframe title="Percentage of Students in Each Lehigh Undergraduate College" aria-label="Interactive line chart" id="datawrapper-chart-bMrgq" src="https://datawrapper.dwcdn.net/bMrgq/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+# Pennsylvania Household Income Levels – 2018
+
+This charts shows the number of Pennsylvania households that fall within a given income range in 2018. The chart was made using Datawrapper, and the dataset was found through the United States Census Bureau, which can be found [here.](https://data.census.gov/cedsci/table?q=Pennsylvania%20income&g=0400000US42&tid=ACSST1Y2018.S1901&t=Income%20%28Households,%20Families,%20Individuals%29&hidePreview=true)
+
+<iframe title="Pennsylvania Household Income Levels in 2018" aria-label="chart" id="datawrapper-chart-yASrk" src="https://datawrapper.dwcdn.net/yASrk/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="423"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
