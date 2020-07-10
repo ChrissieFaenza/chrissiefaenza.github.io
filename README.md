@@ -14,3 +14,10 @@ This chart shows the number of students enrolled in each of Lehigh's colleges or
 
 <iframe title="Lehigh Undergraduate Enrollment Spring 2020" aria-label="chart" id="datawrapper-chart-K0ORY" src="https://datawrapper.dwcdn.net/K0ORY/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="602"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+# Percentage of Lehigh Undergraduate Enrollment – 2011 to 2020
+
+This chart shows the percentage of students enrolled in each of Lehigh's three undergraduate colleges within the past 10 years. The chart was made through Datawrapper, and the dataset was found through the Office of Institutional Research, which can be found [here.](https://oirsa.lehigh.edu/fte-headcount)
+
+<iframe title="Percentage of Students in Each Lehigh Undergraduate College" aria-label="Interactive line chart" id="datawrapper-chart-bMrgq" src="https://datawrapper.dwcdn.net/bMrgq/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
