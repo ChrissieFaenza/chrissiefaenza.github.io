@@ -28,3 +28,9 @@ This charts shows the number of Pennsylvania households that fall within a given
 
 <iframe title="Pennsylvania Household Income Levels in 2018" aria-label="chart" id="datawrapper-chart-yASrk" src="https://datawrapper.dwcdn.net/yASrk/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="423"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+# Places in the U.S. where #DefundThePolice has been tweeted
+
+This map displays Twitter data from across the United States where the hashtag #DefundThePolice has been mentioned in tweets over a 10 day period, from July 13 to July 23, 2020. The data was acquired through Shiny apps, and visualized through ArcGIS StoryMap.
+
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="twitter_usa_defundthepolice" src="//lu.maps.arcgis.com/apps/Embed/index.html?webmap=66a03d24a2d240f1a6f412d6616722b1&extent=-141.7481,32.8738,-47.6173,58.4671&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe></div>
